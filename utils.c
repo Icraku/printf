@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * is_printable - Evaluates whether a char is printable or not.
+ * is_printable - Evaluates whether a char is printable or not, built by Brian and Ivy.
  * @c: Char to be checked
  *
  * Return: 1 if Char c is printable, otherwise returns 0.

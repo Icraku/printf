@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * get_flags - Calculates active flags
- * @format: Formatted string in which to print the arguments
- * @i: take a parameter.
+ * get_flags - A function that calculates the count of active flags, Built by Brian and Ivy.
+ * @format: Formatted string where to print the args.
+ * @i: takes in a parameter.
  * Return: Flags:
  */
 int get_flags(const char *format, int *i)
